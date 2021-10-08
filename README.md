@@ -25,9 +25,10 @@
 <h3 align="center"><b>🛠 Library 🛠</b></h3>
 <br />
 <p align="center">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Next.js-339933?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
 <!-- <img src="https://img.shields.io/badge/Gatsby.js-339933?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp -->
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
 <br />
